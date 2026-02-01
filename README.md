@@ -16,5 +16,6 @@ Interactive Tableau dashboard analysing bike sales performance across products, 
 ## Live Dashboard
 [https://public.tableau.com/app/profile/maahir.behal/viz/BikeSales_17696988835310/SalesDashboard](https://public.tableau.com/app/profile/maahir.behal/viz/BikeSales_17696988835310/SalesDashboard?publish=yes)
 
-## Preview
-![Dashboard Preview](screenshots/screenshot.png)
+## Dashboard Preview
+![Bike Sales Dashboard](screenshot/screenshot.png)
+
